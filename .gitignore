@@ -14,7 +14,6 @@ bin/
 *.iml
 *.ipr
 
-nbproject/
 build/
 build/classes
 nbbuild/
